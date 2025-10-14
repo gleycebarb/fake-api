@@ -3,32 +3,32 @@
     {
       "titulo": "Nível de Habilidade",
       "subtitulo": "Fácil, Médio, Avançado",
-      "url": "assets/images/categories/cat1.png",
+      "url": "assets/images/categories/cat1.png"
     },
     {
       "titulo": "Tempo de Receita",
       "subtitulo": "Abaixo de 30 min, 1 hora ou mais",
-      "url": "assets/images/categories/cat2.png",
+      "url": "assets/images/categories/cat2.png"
     },
     {
       "titulo": "Dieta",
       "subtitulo": "Vegetariano, Não Vegano, Vegano",
-      "url": "assets/images/categories/cat3.png",
+      "url": "assets/images/categories/cat3.png"
     },
     {
       "titulo": "Culinária",
       "subtitulo": "Indiano, Chinesa, Italiana e mais",
-      "url": "assets/images/categories/cat4.png",
+      "url": "assets/images/categories/cat4.png"
     },
     {
       "titulo": "Cursos",
       "subtitulo": "Aperitivos, Pratos Principais e mais",
-      "url": "assets/images/categories/cat5.png",
+      "url": "assets/images/categories/cat5.png"
     },
     {
       "titulo": "Comida Saudável",
       "subtitulo": "Baixo em calorias e mais",
-      "url": "assets/images/categories/cat6.png",
+      "url": "assets/images/categories/cat6.png"
     }
   ]
 }
