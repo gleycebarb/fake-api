@@ -30,5 +30,19 @@
       "subtitulo": "Baixo em calorias e mais",
       "url": "assets/images/categories/cat6.png"
     }
+  ],
+  "Profile": [
+    {
+      "nome": "admin",
+      "email": "admin@",
+      "password": 123,
+      "urlImage": "assets/images/default_pfp.jpg"
+    },
+    {
+      "nome": "Erick",
+      "email": "edas@",
+      "password": 111,
+      "urlImage": "assets/images/default_pfp.jpg"
+    }
   ]
 }
