@@ -35,13 +35,13 @@
     {
       "nome": "admin",
       "email": "admin@",
-      "password": 123,
+      "password": "123",
       "urlImage": "assets/images/default_pfp.jpg"
     },
     {
       "nome": "Erick",
       "email": "edas@",
-      "password": 111,
+      "password": "111",
       "urlImage": "assets/images/default_pfp.jpg"
     }
   ]
