@@ -1,34 +1,40 @@
 {
-  "Categories": [
+  "Categories": {
     {
-      "titulo": "Nível de Habilidade",
-      "subtitulo": "Fácil, Médio, Avançado",
-      "url": "assets/images/categories/cat1.png"
-    },
-    {
-      "titulo": "Tempo de Receita",
-      "subtitulo": "Abaixo de 30 min, 1 hora ou mais",
+      "titulo": "Receitas rápidas",
+      "subtitulo": "Até 30 minutos de preparo",
+      "query": [ "maxReadyTime", "30" ],
       "url": "assets/images/categories/cat2.png"
     },
     {
-      "titulo": "Dieta",
-      "subtitulo": "Vegetariano, Não Vegano, Vegano",
+      "titulo": "Veganas",
+      "subtitulo": "Receitas de dieta vegana",
+      "query": [ "diet", "vegan" ],
       "url": "assets/images/categories/cat3.png"
     },
     {
-      "titulo": "Culinária",
-      "subtitulo": "Indiano, Chinesa, Italiana e mais",
+      "titulo": "Vegetarianas",
+      "subtitulo": "Receitas de dieta vegetariana",
+      "query": [ "diet", "vegetarian" ],
+      "url": "assets/images/categories/cat3.png"
+    },
+    {
+      "titulo": "Culinária italiana",
+      "subtitulo": "Melhores receitas da Itália",
+      "query": [ "cuisine", "italian" ],
       "url": "assets/images/categories/cat4.png"
     },
     {
-      "titulo": "Cursos",
-      "subtitulo": "Aperitivos, Pratos Principais e mais",
-      "url": "assets/images/categories/cat5.png"
+      "titulo": "Culinária francesa",
+      "subtitulo": "Melhores receitas da Itália",
+      "query": [ "cuisine", "french" ],
+      "url": "assets/images/categories/cat4.png"
     },
     {
-      "titulo": "Comida Saudável",
-      "subtitulo": "Baixo em calorias e mais",
-      "url": "assets/images/categories/cat6.png"
+      "titulo": "Culinária indiana",
+      "subtitulo": "Melhores receitas da Itália",
+      "query": [ "cuisine", "indian" ],
+      "url": "assets/images/categories/cat4.png"
     }
   ],
   "Profile": [
