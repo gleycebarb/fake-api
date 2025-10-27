@@ -37,6 +37,16 @@
       "url": "assets/images/categories/cat4.png"
     }
   ],
+  "RecipeLists": [
+    {
+      "title": "Popular hoje!",
+      "list": [ "715539", "715540", "715541" ]
+    },
+    {
+      "title": "Top fitness!",
+      "list": [ "715542", "715543", "715544" ]
+    }
+  ],
   "Profile": [
     {
       "nome": "admin",
