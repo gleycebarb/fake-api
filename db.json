@@ -4,37 +4,37 @@
       "titulo": "Receitas rápidas",
       "subtitulo": "Até 30 minutos de preparo",
       "query": [ "maxReadyTime", "30" ],
-      "url": "assets/images/categories/cat2.png"
+      "url": "https://guiadacozinha.com.br/wp-content/uploads/2020/01/panqueca-frango-bacon.jpg"
     },
     {
       "titulo": "Veganas",
       "subtitulo": "Receitas de dieta vegana",
       "query": [ "diet", "vegan" ],
-      "url": "assets/images/categories/cat3.png"
+      "url": "https://www.dicasdemulher.com.br/wp-content/uploads/2020/07/almoco-vegano-0.jpg"
     },
     {
       "titulo": "Vegetarianas",
       "subtitulo": "Receitas de dieta vegetariana",
       "query": [ "diet", "vegetarian" ],
-      "url": "assets/images/categories/cat3.png"
+      "url": "https://totalpass.com/wp-content/uploads/2022/10/receitas-vegetarianas.jpg"
     },
     {
       "titulo": "Culinária italiana",
       "subtitulo": "Melhores receitas da Itália",
       "query": [ "cuisine", "italian" ],
-      "url": "assets/images/categories/cat4.png"
+      "url": "https://alegrafoods.com.br/wp-content/uploads/2020/07/9-img-blog.png"
     },
     {
       "titulo": "Culinária francesa",
       "subtitulo": "Melhores receitas da Itália",
       "query": [ "cuisine", "french" ],
-      "url": "assets/images/categories/cat4.png"
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyasApgPxAMIFp_FykWN_iSQhiydkMM-kpFA&s"
     },
     {
       "titulo": "Culinária indiana",
       "subtitulo": "Melhores receitas da Itália",
       "query": [ "cuisine", "indian" ],
-      "url": "assets/images/categories/cat4.png"
+      "url": "https://internovias.com.br/wp-content/uploads/2018/02/4-2.jpg"
     }
   ],
   "RecipeLists": [
